@@ -9,10 +9,6 @@ import numpy as np
 print(cv2.__version__)
 
 os.makedirs("Output", exist_ok=True)
-# img = cv2.imread("data/src/Lena.jpg")
-# # print(img.shape)
-# print "Hello World"
-# # print(img)
 
 print("Choice Video Capturing")
 print("Video = 0 ")
